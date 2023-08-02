@@ -28,7 +28,7 @@ app.post('/api/greetings', async (req, res) => {
 
 });
 
-app.listen(PORT, () => console.log(`started on port : ${PORT}`) )
+app.listen(PORT, () => console.log(`started on port : ${PORT}`))
 
 
 

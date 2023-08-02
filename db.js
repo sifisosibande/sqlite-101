@@ -68,6 +68,6 @@ console.log(result2); */
 //   .then(result => {
 //     console.log(result)
 //   })
-  const countResult = await db.get(`SELECT COUNT(*) AS count FROM greetings`);
-  console.log(countResult);
+/*   const countResult = await db.get(`SELECT COUNT(*) AS count FROM greetings`);
+  console.log(countResult); */
 console.log("end");
